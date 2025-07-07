@@ -34,10 +34,13 @@ vuln-scanner-project/
 1. Clone this repository
 bash: git clone https://github.com/bandaripratheek/vuln-scanner-project.git
 cd vuln-scanner-project
+
 2. Install required libraries
 bash: pip install streamlit nmap requests reportlab  or pip install -r requirements.txt
+
 3.Run the app
 bash: streamlit run app.py
+
 4.View the generated reports in **sample_output/**
 
 🧠 What I Learned
