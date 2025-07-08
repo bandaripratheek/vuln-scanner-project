@@ -54,6 +54,12 @@ bash: streamlit run app.py
 
 > End-to-end project structuring and GitHub deployment
 
+📷 Screenshots
+![Vulnerability Scanner](https://github.com/user-attachments/assets/d226c58f-d2a8-4442-9915-e01462e6d3e2)
+![Vulnerability Scanner 2](https://github.com/user-attachments/assets/13471328-1666-486c-aa01-1cc466b65928)
+
+
+
 🏷️ License
 This project is licensed under the MIT License — feel free to use or build on it!
 
